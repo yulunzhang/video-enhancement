@@ -17,8 +17,6 @@ By Yulun Zhang (yulun100@gmail.com), Yapeng Tian. (yapengtian@rochester.edu). If
 * Ziwei Liu et al., Video Frame Synthesis using Deep Voxel Flow, ICCV, 2017. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Video_Frame_Synthesis_ICCV_2017_paper.pdf)
 
 ## Video Super-Resolution
-* Mehdi S. M. Sajjadi et al., Frame-Recurrent Video Super-Resolution, CVPR, 2018. [[Paper]](https://arxiv.org/abs/1801.04590)
-
 * Younghyun Jo et al., Deep Video Super-Resolution Network Using Dynamic Upsampling Filters Without Explicit Motion Compensation, CVPR, 2018. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jo_Deep_Video_Super-Resolution_CVPR_2018_paper.pdf)
 
 * Mehdi S. M. Sajjadi et al., Frame-Recurrent Video Super-Resolution, CVPR, 2018. [[Paper]](https://arxiv.org/pdf/1801.04590.pdf)
