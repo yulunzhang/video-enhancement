@@ -4,7 +4,7 @@ A list of resources for video enhancement, including video super-resolutio, inte
 By Yulun Zhang (yulun100@gmail.com), Yapeng Tian. (yapengtian@rochester.edu). If you have any suggestions, please contact us. Thanks!
 
 ## Video Interpolation
-*  et al., Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation, CVPR, 2018. [[Paper]](https://arxiv.org/abs/1712.00080)
+* Huaizu Jiang et al., Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation, CVPR, 2018. [[Paper]](https://arxiv.org/abs/1712.00080)
 
 * Simon Niklaus et al., Context-aware Synthesis for Video Frame Interpolation, CVPR, 2018. [[Paper]](https://arxiv.org/abs/1803.10967)
 
