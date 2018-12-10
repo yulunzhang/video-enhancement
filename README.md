@@ -17,6 +17,8 @@ By Yulun Zhang (yulun100@gmail.com), Yapeng Tian. (yapengtian@rochester.edu). If
 * Ziwei Liu et al., Video Frame Synthesis using Deep Voxel Flow, ICCV, 2017. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Video_Frame_Synthesis_ICCV_2017_paper.pdf)
 
 ## Video Super-Resolution
+* Yapeng Tian, Yulun Zhang, Yun Fu, and Chenliang Xu. TDAN: Temporally Deformable Alignment Network for Video Super-Resolution, ArXiv, 2018. [[Paper]](https://arxiv.org/pdf/1812.02898.pdf) [[Demo]](https://www.youtube.com/watch?v=eZExENE50I0)
+
 * Younghyun Jo et al., Deep Video Super-Resolution Network Using Dynamic Upsampling Filters Without Explicit Motion Compensation, CVPR, 2018. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jo_Deep_Video_Super-Resolution_CVPR_2018_paper.pdf)
 
 * Mehdi S. M. Sajjadi et al., Frame-Recurrent Video Super-Resolution, CVPR, 2018. [[Paper]](https://arxiv.org/pdf/1801.04590.pdf)
@@ -27,7 +29,6 @@ By Yulun Zhang (yulun100@gmail.com), Yapeng Tian. (yapengtian@rochester.edu). If
 
 * Renjie Liao et al., Video Super-Resolution via Deep Draft-Ensemble Learning, ICCV, 2015. [[Paper]](http://www.cse.cuhk.edu.hk/leojia/projects/DeepSR/papers/DeepSR_final.pdf) [[Code]](http://www.cse.cuhk.edu.hk/leojia/projects/DeepSR/)
 
-* Yapeng Tian, Yulun Zhang, Yun Fu, and Chenliang Xu. TDAN: Temporally Deformable Alignment Network for Video Super-Resolution, ArXiv, 2018. [[Paper]](https://arxiv.org/pdf/1812.02898.pdf) [[Demo]](https://www.youtube.com/watch?v=eZExENE50I0)
 
 ## Video Denoising
 * Bihan Wen et al., Joint Adaptive Sparsity and Low-Rankness on the Fly: An Online Tensor Reconstruction Scheme for Video Denoising, ICCV, 2017. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wen_Joint_Adaptive_Sparsity_ICCV_2017_paper.pdf)
