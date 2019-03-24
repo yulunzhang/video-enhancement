@@ -34,11 +34,11 @@ By Yulun Zhang (yulun100@gmail.com), Yapeng Tian. (yapengtian@rochester.edu). If
 * Bihan Wen et al., Joint Adaptive Sparsity and Low-Rankness on the Fly: An Online Tensor Reconstruction Scheme for Video Denoising, ICCV, 2017. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wen_Joint_Adaptive_Sparsity_ICCV_2017_paper.pdf)
 
 ## Video Deblurring
+* Seungjun Nah et al., Recurrent Neural Networks with Intra-Frame Iterations for Video Deblurring, CVPR, 2019. [[Paper]]()
+
 * Wenqi Ren et al., Video Deblurring via Semantic Segmentation and Pixel-Wise Non-Linear Kernel, ICCV, 2017. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Ren_Video_Deblurring_via_ICCV_2017_paper.pdf)
 
 * Tae Hyun Kim et al., Online Video Deblurring via Dynamic Temporal Blending Network, ICCV, 2017. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Kim_Online_Video_Deblurring_ICCV_2017_paper.pdf)
-
-* Seungjun Nah et al., Recurrent Neural Networks with Intra-Frame Iterations for Video Deblurring, CVPR, 2019. [[Paper]]()
 
 ## Other Video Enhancement Tasks
 * Ren Yang et al., Multi-Frame Quality Enhancement for Compressed Video, CVPR, 2018. [[Paper]](https://arxiv.org/abs/1803.04680)
