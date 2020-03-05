@@ -4,6 +4,8 @@ A list of resources for video enhancement, including video super-resolutio, inte
 By Yulun Zhang (yulun100@gmail.com), Yapeng Tian. (yapengtian@rochester.edu). If you have any suggestions, please contact us. Thanks!
 
 ## Video Interpolation
+* Xiaoyu Xiang et al., Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution, CVPR, 2020. [[Paper]](https://arxiv.org/abs/2002.11616) [[Code]](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020)
+
 * Huaizu Jiang et al., Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation, CVPR, 2018. [[Paper]](https://arxiv.org/abs/1712.00080)
 
 * Simon Niklaus et al., Context-aware Synthesis for Video Frame Interpolation, CVPR, 2018. [[Paper]](https://arxiv.org/abs/1803.10967)
@@ -17,6 +19,8 @@ By Yulun Zhang (yulun100@gmail.com), Yapeng Tian. (yapengtian@rochester.edu). If
 * Ziwei Liu et al., Video Frame Synthesis using Deep Voxel Flow, ICCV, 2017. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Video_Frame_Synthesis_ICCV_2017_paper.pdf)
 
 ## Video Super-Resolution
+* Xiaoyu Xiang et al., Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution, CVPR, 2020. [[Paper]](https://arxiv.org/abs/2002.11616) [[Code]](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020)
+
 * Xintao Wang, Kelvin C.K. Chan, Ke Yu, Chao Dong, Chen Change Loy. EDVR: Video Restoration with Enhanced Deformable Convolutional Networks, CVPRW, 2019. [[Paper]](https://arxiv.org/pdf/1905.02716.pdf) [[Code]](https://github.com/xinntao/EDVR)
 
 * Yapeng Tian, Yulun Zhang, Yun Fu, Chenliang Xu. TDAN: Temporally Deformable Alignment Network for Video Super-Resolution, ArXiv, 2018. [[Paper]](https://arxiv.org/pdf/1812.02898.pdf) [[Demo]](https://www.youtube.com/watch?v=eZExENE50I0) [[Code]](https://github.com/YapengTian/TDAN_VSR)
