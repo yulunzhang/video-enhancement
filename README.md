@@ -38,6 +38,7 @@ By Yulun Zhang (yulun100@gmail.com), Yapeng Tian. (yapengtian@rochester.edu). If
 
 ## Video Denoising
 * Bihan Wen et al., Joint Adaptive Sparsity and Low-Rankness on the Fly: An Online Tensor Reconstruction Scheme for Video Denoising, ICCV, 2017. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wen_Joint_Adaptive_Sparsity_ICCV_2017_paper.pdf)
+* Matias Tassano et al., FastDVDnet: Towards Real-Time Deep Video Denoising Without Flow Estimation, CVPR, 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tassano_FastDVDnet_Towards_Real-Time_Deep_Video_Denoising_Without_Flow_Estimation_CVPR_2020_paper.pdf) [[Code]](https://github.com/m-tassano/fastdvdnet)
 
 ## Video Deblurring
 * Seungjun Nah et al., Recurrent Neural Networks with Intra-Frame Iterations for Video Deblurring, CVPR, 2019. [[Paper]]()
